@@ -1,5 +1,5 @@
-### Name:MITHILESH SG
-### Reg no:212223080029
+### Name:VISHNUPRIYAN V
+### Reg no:212223080058
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
